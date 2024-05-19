@@ -1,0 +1,16 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+uvicorn
+sse_starlette
+pypdf
+langchainhub
+PyPDF2
+langchain-objectbox
+langchain-text-splitters
+langchain
+langchain-groq
+groq
